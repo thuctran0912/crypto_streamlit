@@ -1,5 +1,8 @@
 # Virtual Environment
 streamlit_env/
 
-# Streamlit
+# Streamlit connection to Snowflake
 .streamlit/
+
+# Python cache
+__pycache__/
