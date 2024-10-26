@@ -31,4 +31,4 @@ To deploy the pipelines for streaming and batch, follow the `snowpipe_streaming`
 ## Potential Improvements
 - Developing CI/CD pipeline which allows automated deployment and reduce the need for manual integration when there is new update. 
 - Optimize EC2 feature in UserData in deploying neccesary scripts inside the EC2 server right after it is created by CloudFormation.
-- Developing an orchestration tool to manage the pipeline process.    
+- Developing an orchestration tool to manage the pipeline process.
